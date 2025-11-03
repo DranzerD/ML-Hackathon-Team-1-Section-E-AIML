@@ -1,11 +1,6 @@
-# Hangman Q-Learning with HMM Oracle
-
-Small project demonstrating a tabular Q-Learning agent for the Hangman game that uses a simple HMM-based oracle as guidance.
-
 Contents
 
 - `Team1.ipynb` — Main notebook with environment, HMM oracle, Q-learning agent, training, evaluation and demo playback.
-- `outputs/` — Generated plots and saved model artifacts (created at runtime).
 
 Quick summary
 
